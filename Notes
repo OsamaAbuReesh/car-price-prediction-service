@@ -1,0 +1,7 @@
+- gitignore file / env for don't push data file
+- Classes: driving-table , post-price, list_ads, list-additions 
+
+
+- Data: Name, Model, , Price , Fuel type, Color, Licence, Gear type, year
+        Power motor, number of passengers, Payment method, Shown(Sell or rent), Previous owners, Extras like(Sensors, AC etc...),
+        Other details, Insurance price (طرف تكميلي , طرف ثالث, المجموع)
