@@ -1,0 +1,12 @@
+table class: driving-table
+  - td:
+      - h3 => Car Name
+      - h5 => Model_Year
+
+   - h5 class: post-price => Price
+
+table class: list_ads
+   - list-row for attributs [  لون السيارة , نوع الوقود ,  اصل السيارة ,
+      رخصة السيارة ,  نوع الجير ,Wi الزجاج ,  قوة الماتور ,  عدد الركاب  ,
+  وسيلة الدفع ,  أصحاب سابقون ,s عداد السيارة ,  إضافات , 
+]
