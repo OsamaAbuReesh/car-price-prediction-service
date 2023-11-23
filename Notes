@@ -1,3 +1,5 @@
+- Data Extracting
+
 table class: driving-table
   - td:
       - h3 => Car Name
@@ -10,3 +12,15 @@ table class: list_ads
       رخصة السيارة ,  نوع الجير ,Wi الزجاج ,  قوة الماتور ,  عدد الركاب  ,
   وسيلة الدفع ,  أصحاب سابقون ,s عداد السيارة ,  إضافات , 
 ]
+
+- rewrite all codes in data_extracting to functions.
+
+=====================
+
+- Data Processing
+
+   !important Search way to remove all strings contains cells. 
+
+   - Handle values like 19,000 in two languages (AR/EN)
+   - 250.000 
+   - Contains "كم" letter.

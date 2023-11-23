@@ -1,0 +1,5 @@
+# Ignore a specific file
+car_data copy.csv
+
+# Ignore a specific folder
+data-test/
